@@ -1,9 +1,5 @@
-# 👋 Hi, I'm Suman  
-### 🚀 Full Stack Developer | ⚡ React Enthusiast | 🏍️ Rider  
-
----
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suman-seelan/Suman-seelan/main/yourbanner.svg" width="800" />
+  <img src="https://raw.githubusercontent.com/Suman-seelan/Suman-seelan/main/name.svg" width="800" />
 </p>
 
 
