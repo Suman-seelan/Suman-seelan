@@ -36,8 +36,7 @@
 
 ## 🎨 Fun Zone  
 
-<img src="https://media.tenor.com/2RoX3uxz_68AAAAC/working.gif" width="120"/>  
-<img src="https://i.imgur.com/sR4y3YF.gif" width="300"/>  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
 
 ---
 
