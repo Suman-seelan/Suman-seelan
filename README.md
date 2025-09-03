@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Suman-seelan">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=2000&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;React+%26+Next.js+Lover;Open+Source+Contributor;Always+Learning+New+Things" 
+      src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=1200&pause=2000&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;React+%26+Next.js+Lover;Open+Source+Contributor;Always+Learning+New+Things" 
       alt="Typing SVG" 
     />
   </a>
