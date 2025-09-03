@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/Suman-seelan/Suman-seelan/main/name.svg" width="800" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Suman-seelan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Lover;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ## 🛠️ Tech & Tools
 
