@@ -2,6 +2,10 @@
 ### 🚀 Full Stack Developer | ⚡ React Enthusiast | 🏍️ Rider  
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suman-seelan/Suman-seelan/main/yourbanner.svg" width="800" />
+</p>
+
 
 ## 🛠️ Tech & Tools
 
