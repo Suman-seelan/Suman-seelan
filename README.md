@@ -5,11 +5,12 @@
 <p align="center">
   <a href="https://github.com/Suman-seelan">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=100&pause=800&color=F75C7E&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Full+Stack+Developer;React+%26+Next.js+Lover;Open+Source+Contributor;Always+Learning+New+Things" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=200&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Full+Stack+Developer;React+%26+Next.js+Lover;Open+Source+Contributor;Always+Learning+New+Things" 
       alt="Typing SVG" 
     />
   </a>
 </p>
+
 
 ## 🛠️ Tech & Tools
 
